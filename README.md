@@ -8,3 +8,4 @@ feat: add multi-signature wallet support for contract deployments
 test: implement unit tests for cross-chain bridge functionality
 perf: reduce contract bytecode size to stay within Base limits
 security: enhance private key management using environment variables
+feat: integrate Etherscan API for automated transaction verification
