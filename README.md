@@ -48,3 +48,4 @@ refactor: split large contracts into smaller modules
 feat: implement upgradeable contract pattern (UUPS)
 fix: fix incorrect balance checks in transfer logic
 feat: add fallback and receive functions
+feat: implement permit functionality for gasless approvals
