@@ -12,3 +12,4 @@ feat: integrate Etherscan API for automated transaction verification
 chore: initialize project structure with Hardhat
 feat: add Base mainnet and testnet network configurations
 docs: create comprehensive README for Base quest
+chore: setup dotenv for secure private key management
