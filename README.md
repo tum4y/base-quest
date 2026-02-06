@@ -11,3 +11,4 @@ security: enhance private key management using environment variables
 feat: integrate Etherscan API for automated transaction verification
 chore: initialize project structure with Hardhat
 feat: add Base mainnet and testnet network configurations
+docs: create comprehensive README for Base quest
