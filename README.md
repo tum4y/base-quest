@@ -14,3 +14,4 @@ feat: add Base mainnet and testnet network configurations
 docs: create comprehensive README for Base quest
 chore: setup dotenv for secure private key management
 feat: implement basic ERC20 token template
+refactor: optimize compiler settings for EVM compatibility
