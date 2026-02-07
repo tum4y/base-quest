@@ -25,3 +25,4 @@ fix: update RPC endpoints for Base mainnet
 feat: implement dark mode UI
 feat: add mobile wallet compatibility
 fix: resolve Metamask provider detection issues
+feat: add real-time price feed via Chainlink
