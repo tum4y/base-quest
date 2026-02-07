@@ -22,3 +22,4 @@ feat: add Alchemy/Infura provider support
 refactor: optimize frontend bundle size
 feat: add multi-language support (i18n)
 fix: update RPC endpoints for Base mainnet
+feat: implement dark mode UI
