@@ -24,3 +24,4 @@ feat: add multi-language support (i18n)
 fix: update RPC endpoints for Base mainnet
 feat: implement dark mode UI
 feat: add mobile wallet compatibility
+fix: resolve Metamask provider detection issues
