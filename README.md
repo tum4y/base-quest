@@ -29,3 +29,4 @@ feat: add real-time price feed via Chainlink
 feat: integrate The Graph for data indexing
 feat: add custom error pages (404, 500)
 refactor: improve UI responsiveness for tablets
+feat: add analytics for dapp usage tracking
