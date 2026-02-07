@@ -16,3 +16,4 @@ chore: setup dotenv for secure private key management
 feat: implement basic ERC20 token template
 refactor: optimize compiler settings for EVM compatibility
 feat: add RainbowKit for improved UI/UX
+feat: implement transaction status tracking
