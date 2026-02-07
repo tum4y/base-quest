@@ -26,3 +26,4 @@ feat: implement dark mode UI
 feat: add mobile wallet compatibility
 fix: resolve Metamask provider detection issues
 feat: add real-time price feed via Chainlink
+feat: integrate The Graph for data indexing
