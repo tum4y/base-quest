@@ -19,3 +19,4 @@ feat: add RainbowKit for improved UI/UX
 feat: implement transaction status tracking
 fix: resolve hydration errors in Next.js frontend
 feat: add Alchemy/Infura provider support
+refactor: optimize frontend bundle size
