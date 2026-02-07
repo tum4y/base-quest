@@ -17,3 +17,4 @@ feat: implement basic ERC20 token template
 refactor: optimize compiler settings for EVM compatibility
 feat: add RainbowKit for improved UI/UX
 feat: implement transaction status tracking
+fix: resolve hydration errors in Next.js frontend
