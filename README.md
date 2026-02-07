@@ -31,3 +31,4 @@ feat: add custom error pages (404, 500)
 refactor: improve UI responsiveness for tablets
 feat: add analytics for dapp usage tracking
 fix: optimize image loading performance
+feat: add social sharing meta tags
