@@ -33,3 +33,4 @@ feat: add analytics for dapp usage tracking
 fix: optimize image loading performance
 feat: add social sharing meta tags
 feat: add URI storage for dynamic metadata management
+refactor: optimize gas usage in contract storage slots
