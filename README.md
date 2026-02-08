@@ -35,3 +35,4 @@ feat: add social sharing meta tags
 feat: add URI storage for dynamic metadata management
 refactor: optimize gas usage in contract storage slots
 feat: implement whitelist functionality using Merkle Proofs
+feat: add emergency pause and unpause mechanisms
