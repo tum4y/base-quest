@@ -36,3 +36,4 @@ feat: add URI storage for dynamic metadata management
 refactor: optimize gas usage in contract storage slots
 feat: implement whitelist functionality using Merkle Proofs
 feat: add emergency pause and unpause mechanisms
+feat: add emergency pause and unpause mechanisms
